@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/React-Redux-Firebase-App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/firebase" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/materialcss" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mscience" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react-redux-new-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/recipe" vcs="Git" />
+  </component>
+</project>
