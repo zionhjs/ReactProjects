@@ -31,10 +31,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de0ab4f-5597-44e6-bc1e-5ecebaad9b23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TicTacToe/ma-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../TicTacToe/ma-app/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front-end-challenge-master/mscience" beforeDir="false" afterPath="$PROJECT_DIR$/../front-end-challenge-master/mscience" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../materialcss" beforeDir="false" afterPath="$PROJECT_DIR$/../materialcss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mscience" beforeDir="false" afterPath="$PROJECT_DIR$/../mscience" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../recipe" beforeDir="false" afterPath="$PROJECT_DIR$/../recipe" afterDir="false" />
@@ -74,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612633075674</updated>
       <workItem from="1612633078986" duration="456000" />
-      <workItem from="1612682876953" duration="678000" />
+      <workItem from="1612682876953" duration="998000" />
     </task>
     <servers />
   </component>
